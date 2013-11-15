@@ -1,12 +1,13 @@
 #IDE files#
 ###########
-.idea/
+.idea/*
 
 # images files#
 ###############
 *.png
 *.jpg
 *.gif
+
 # Compiled source #
 ###################
 *.com
